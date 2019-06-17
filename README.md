@@ -1,4 +1,7 @@
 
+
+[![Build Status](https://dev.azure.com/philliplabar/Pipeline1/_apis/build/status/PhillipLaBar.Pipeline?branchName=master)](https://dev.azure.com/philliplabar/Pipeline1/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
